@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-web-app",
+  "version": "1.0.0",
+  "description": "ReactJS/NodeJS website to show my web skills as well as my other academic and work experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-pierce/portfolio-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-pierce/portfolio-web-app/issues"
+  },
+  "homepage": "https://github.com/daniel-pierce/portfolio-web-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
